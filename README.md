@@ -30,3 +30,16 @@ int main()
     }while(guess!=number);
     return 0;
 }
+/*OUTPUT:
+the number is 43 
+Guess the number between 1 to 100
+40
+Higher number please!Guess the number between 1 to 100
+45
+lower number please!Guess the number between 1 to 100
+42
+Higher number please!Guess the number between 1 to 100
+43
+you guessed it in 4 attempt
+*/
+
